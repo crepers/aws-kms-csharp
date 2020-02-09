@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSApplication 4.5", "KMSApplication 4.5\KMSApplication 4.5.csproj", "{4FF566C5-B5CC-49B2-8131-42342133A9FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMSApplication 3.5", "KMSApplication 3.5\KMSApplication 3.5.csproj", "{6E230E18-5CC4-42E6-B82C-C8C5419D77A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FF566C5-B5CC-49B2-8131-42342133A9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FF566C5-B5CC-49B2-8131-42342133A9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FF566C5-B5CC-49B2-8131-42342133A9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FF566C5-B5CC-49B2-8131-42342133A9FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E230E18-5CC4-42E6-B82C-C8C5419D77A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E230E18-5CC4-42E6-B82C-C8C5419D77A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E230E18-5CC4-42E6-B82C-C8C5419D77A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E230E18-5CC4-42E6-B82C-C8C5419D77A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE865E1-7B76-40B4-A189-64934B7B2216}
+	EndGlobalSection
+EndGlobal
